@@ -2,7 +2,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zhouzt21&theme=transparent)
 
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouzt21&layout=compact&theme=transparent&hide=javascript,html,json,jypternotebook)
+-->
+
 <!--
 **zhouzt21/zhouzt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
