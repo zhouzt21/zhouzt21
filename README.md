@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=zhouzt21&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouzt21&layout=compact&theme=transparent)
 <!--
 **zhouzt21/zhouzt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
